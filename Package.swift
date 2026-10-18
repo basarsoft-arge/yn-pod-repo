@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "YolbilMobileSDK",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/yolbil/YerliNavigasyon-SPM/3.0.07/YolbilMobileSDK.xcframework.zip",
-            checksum: "e11e597585223bb82259e80f995bfd0503317daedb00c5a7fff3f2396fa07b4e"
+            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/yolbil/YerliNavigasyon-SPM/3.0.08/YolbilMobileSDK.xcframework.zip",
+            checksum: "5f4d1410c3d802318489ad161958051c6c0df7fd10cdaa9468b8927239414d32"
         ),
         
         .binaryTarget(
@@ -30,8 +30,8 @@ let package = Package(
         
         .binaryTarget(
             name: "INVSensorManager",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVSensorManager/3.9.9/INVSensorManager.xcframework.zip",
-            checksum: "b4ad97aff4356be33ed987e7dc2ec3e49fd9aa6dfeed532f8a07f84f728173af"
+            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVSensorManager/4.0.6/INVSensorManager.xcframework.zip",
+            checksum: "818f60d7040f72246581d95450b9bcf05e410edace3689364899ab977ae4b389"
         ),
         
         .binaryTarget(
